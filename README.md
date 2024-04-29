@@ -39,9 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https%3A%2F%2Fkinsta.com%2Fwp-content%2Fuploads%2F2021%2F03%2Frust-logo-512x512-1-150x150.png" height="30" alt="rust logo"  />
+  <img src="https://kinsta.com/wp-content/uploads/2021/03/rust-logo-512x512-1-150x150.png" height="30" alt="rust logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="30" alt="ssh logo"  />
+  <img src="https://www.svgrepo.com/show/438984/ssh.svg" height="30" alt="ssh logo"  />
 </div>
 
 ###
