@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hi 👋! </h2>
 
 ###
 
-<img src="https://raw.githubusercontent.com/joyel24/joyel24/output/snake.svg" alt="Snake animation" />
+<center><img src="https://raw.githubusercontent.com/joyel24/joyel24/output/snake.svg" alt="Snake animation" /></center>
 
 ###
 
@@ -39,7 +39,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="30" alt="raspberrypi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="30" alt="rust logo"  />
+  <img src="https%3A%2F%2Fkinsta.com%2Fwp-content%2Fuploads%2F2021%2F03%2Frust-logo-512x512-1-150x150.png" height="30" alt="rust logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" height="30" alt="ssh logo"  />
 </div>
