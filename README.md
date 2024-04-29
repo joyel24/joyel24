@@ -45,3 +45,14 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://www.youtube.com/@joelenvrac" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=flat" height="45" alt="youtube logo"  />
+  </a>
+  <a href="https://discord.com/invite/XPQBCk4cfe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=7289DA&style=flat" height="45" alt="discord logo"  />
+  </a>
+</div>
+
+###
