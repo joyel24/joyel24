@@ -1,4 +1,7 @@
-<h2 align="center">Hi 👋! </h2>
+<div align="center">
+   <h2>Hi 👋!</h2>
+   <h4>Mode sombre recommandé</h4>
+</div>
 
 ###
 
