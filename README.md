@@ -1,6 +1,6 @@
 <div align="center">
    <h2>Hi 👋!</h2>
-   <h4>Mode sombre recommandé</h4>
+   <h4>Enable Dark Mode !</h4>
 </div>
 
 ###
