@@ -54,6 +54,16 @@
 
 ###
 
+<div align=center>
+   Other than my porjects, I contributed to (latest coommit first):<br>
+   https://github.com/LibreSprite/LibreSprite<br>
+   https://github.com/portapack-mayhem/mayhem-firmware<br>
+   https://github.com/MordFIdel/SOCORAD32<br>
+   https://github.com/jaredforrest/nonocross<br>
+   https://github.com/cariboulabs/cariboulite<br>
+   https://github.com/yaronzz/Tidal-Media-Downloader
+</div>
+
 ###
 <div align="center">
    <img src="https://raw.githubusercontent.com/joyel24/joyel24/output/snake.svg" alt="Snake animation" />
