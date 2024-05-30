@@ -55,7 +55,7 @@
 ###
 
 <div align=center>
-   Other than my porjects, I contributed to (latest coommit first):<br>
+   Other than my own porjects, I contributed to (latest coommit first):<br>
    https://github.com/LibreSprite/LibreSprite<br>
    https://github.com/portapack-mayhem/mayhem-firmware<br>
    https://github.com/MordFIdel/SOCORAD32<br>
