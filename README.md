@@ -56,6 +56,8 @@
 
 <div align=center>
    Other than my own porjects, I contributed to (latest coommit first):<br>
+   https://gitlab.com/paulhausk/CheapMesh<br>
+   https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series<br>
    https://github.com/HelTecAutomation/Heltec_ESP32<br>
    https://github.com/LibreSprite/LibreSprite<br>
    https://github.com/portapack-mayhem/mayhem-firmware<br>
