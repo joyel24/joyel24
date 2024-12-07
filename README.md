@@ -55,7 +55,8 @@
 ###
 
 <div align=center>
-   Other than my own porjects, I contributed to (latest coommit first):<br>
+   Other than my own porjects, I contributed to (latest first):<br>
+   https://github.com/Xinyuan-LilyGO/LilyGo-LoRa-Series<br>
    https://gitlab.com/paulhausk/CheapMesh<br>
    https://github.com/Heltec-Aaron-Lee/WiFi_Kit_series<br>
    https://github.com/HelTecAutomation/Heltec_ESP32<br>
